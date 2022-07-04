@@ -4,7 +4,7 @@ export const projects = [
     description: "Netflix clone using react and moviedb api with authentication using firebase",
       image: '/images/6.png',
       tags: ['react', 'firebase', 'firestore', 'moviedb api'],
-    source: 'https://google.com',
+    source: 'https://netflix-clone-27d98.web.app',
     visit: 'https://netflix-clone-27d98.web.app',
     id: 0,
   },
