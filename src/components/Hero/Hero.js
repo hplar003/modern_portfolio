@@ -7,16 +7,15 @@ import { LeftSection } from './HeroStyles';
 const Hero = () => (
   <Section row nopadding>
     <LeftSection>
-      <SectionTitle main center>
-        Welcome to <br/>
-        My Portfolio
+      <SectionTitle  main center>
+        Hi, Welcome to<br/>
+         <p>my Portfolio</p>
       </SectionTitle>
       <SectionText>
-        Ralph Winston D. Maronilla
+        <p>Ralph Winston D. Maronilla</p> 
+        <p>Web Developer</p>
       </SectionText>
-      <SectionText style={{ marginTop:'-30px' }} >
-        Web Developer
-      </SectionText>
+     
       <Button onClick={() => window.location = '#projects'}>Learn More</Button>
     </LeftSection>
   </Section>
