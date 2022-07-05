@@ -14,8 +14,8 @@ export const projects = [
     description: "This is a static react web app built with react. ",
     image: '/images/5.png',
     tags: ['React'],
-    source: 'https://modernui-ux-reactjs.vercel.app/',
-    visit: 'https://github.com/hplar003/modernui-ux_reactjs',
+    visit: 'https://modernui-ux-reactjs.vercel.app/',
+    source: 'https://github.com/hplar003/modernui-ux_reactjs',
     id: 1,
   },
   {
