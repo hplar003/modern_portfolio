@@ -25,7 +25,7 @@ export const projects = [
     tags: ['React','material ui','rapid api'],
     source: 'https://github.com/hplar003/fitness_app',
     visit: 'https://fitness-app-tau.vercel.app',
-    id: 1,
+    id: 2,
   },
 ];
 

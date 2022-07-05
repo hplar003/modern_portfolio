@@ -20,6 +20,8 @@ export const Boxes = styled.div`
     max-width: 500px;
     margin: 24px auto;
   }
+
+
 `
 
 export const Box = styled.div`
